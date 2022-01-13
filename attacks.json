@@ -1,0 +1,23 @@
+{
+    "a000": {
+        "id": "a000",
+        "name": "template",
+        "power": 0,
+        "bonus": 0,
+        "crit-min": 20
+    },
+    "a001": {
+        "id": "a001",
+        "name": "slash",
+        "power": 10,
+        "bonus": 5,
+        "crit-min": 19
+    },
+    "a002": {
+        "id": "a002",
+        "name": "force_bolt",
+        "power": 15,
+        "bonus": 2,
+        "crit-min": 18
+    }
+}

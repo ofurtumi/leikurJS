@@ -1,0 +1,26 @@
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 2em;
+}
+
+p {
+    margin: 0;
+}
+
+h1 {
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+.holder {
+    width: 75%;
+    /* padding: 1em; */
+    /* margin: auto; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.helptext {
+    display: block;
+}

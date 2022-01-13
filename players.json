@@ -1,0 +1,24 @@
+{
+    "p000": {
+        "id": "p000",
+        "name": "template",
+        "max-hp": 1,
+        "current-hp": 1,
+        "ac": 1,
+        "attacks":["a000"],
+        "mana": 1,
+        "level": 0,
+        "class": "none"
+    },
+    "p001": {
+        "id": "p001",
+        "name": "tumi",
+        "max-hp": 100,
+        "current-hp": 100,
+        "ac": 12,
+        "attacks": ["a001","a002"],
+        "mana": 10,
+        "level": 1,
+        "class": "spellsword"
+    }
+}
